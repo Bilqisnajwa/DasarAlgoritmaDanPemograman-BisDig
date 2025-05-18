@@ -26,3 +26,14 @@ Kemudian, hasil dari base case akan dikembalikan ke pemanggilan sebelumnya:
 2\! = 2 \\times 1 = 2
 3\! = 3 \\times 2 = 6
 4\! = 4 \\times 6 = 24
+
+
+
+**Penjelasan Penggunaan Perulangan dan List:**
+*List (sebagai pengganti Array):*
+Dalam Python, kita menggunakan list untuk menyimpan sekumpulan data. Dalam kasus ini, kita akan menggunakan sebuah list untuk menyimpan nilai-nilai dari 5 siswa.
+List memungkinkan kita untuk menyimpan banyak nilai di dalam satu variabel, dan setiap nilai dapat diakses menggunakan indeks (posisi)nya. Indeks dalam Python dimulai dari 0.
+Perulangan (for loop):
+
+Perulangan sangat berguna ketika kita perlu melakukan tindakan yang sama berulang kali. Dalam kasus ini, kita perlu meminta input nilai dari 5 siswa.
+Kita dapat menggunakan perulangan for untuk mengulang proses input sebanyak 5 kali. Setiap kali perulangan berjalan, kita akan meminta input nilai untuk satu siswa dan menambahkannya ke dalam list nila
