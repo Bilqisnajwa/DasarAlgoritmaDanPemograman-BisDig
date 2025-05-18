@@ -37,3 +37,14 @@ Perulangan (for loop):
 
 Perulangan sangat berguna ketika kita perlu melakukan tindakan yang sama berulang kali. Dalam kasus ini, kita perlu meminta input nilai dari 5 siswa.
 Kita dapat menggunakan perulangan for untuk mengulang proses input sebanyak 5 kali. Setiap kali perulangan berjalan, kita akan meminta input nilai untuk satu siswa dan menambahkannya ke dalam list nila
+
+
+
+**Penjelasan Penggunaan Struktur Kontrol Percabangan:**
+Struktur kontrol percabangan (seperti if, elif, else) memungkinkan program untuk mengambil keputusan berdasarkan kondisi tertentu. Dalam kasus diskon e-commerce ini, kita perlu memeriksa apakah total belanja pelanggan memenuhi syarat untuk mendapatkan diskon (yaitu, di atas Rp500.000).
+
+Logika percabangannya adalah sebagai berikut:
+
+Kondisi: Periksa apakah total belanja pelanggan lebih besar dari Rp500.000.
+Jika kondisi benar (True): Berikan diskon sebesar 10% dari total belanja. Hitung total pembayaran setelah diskon.
+Jika kondisi salah (False): Tidak ada diskon yang diberikan. Total pembayaran sama dengan total belanja awal.
